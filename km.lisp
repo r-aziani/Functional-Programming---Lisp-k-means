@@ -1,7 +1,6 @@
 ;;;; -*- Mode:Lisp -*-
 
 ;;;; km.lisp --
-;; Proskurniak Valentyn 851678
 ;; Aziani Riccardo 866037
 
 ;; FUNZIONE vplus/2
