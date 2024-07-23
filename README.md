@@ -1,5 +1,5 @@
 # Functional-Programming---Lisp-k-means
-Lisp implementation of k-means algorithm
+This project is a Lisp implementation of k-means algorithm, done during my three-year degree in Milano-Bicocca University.
 
 Aziani Riccardo 866037
 
